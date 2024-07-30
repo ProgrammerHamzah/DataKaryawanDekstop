@@ -24,7 +24,7 @@ Go to the "Employee data" section.
 Use search and filter options to find specific datas.
 Edit or delete datas as necessary.
 
-Thank you for using the Shoe Shop Application!.
+Thank you for using the Employee Data Collection Application!.
 
 # Aplikasi Pendataan karyawan
 
@@ -53,4 +53,4 @@ pergi ke bagian data karyawan.
 gunakan pencarian dan penjaringan untuk menemukan data spesifik.
 ubah atau hapus data seperlunnya.
 
-Terima kasih menggunakan applikasi pengelolaan toko sepatu!.
+Terima kasih menggunakan applikasi pendataan karyawan!.
